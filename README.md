@@ -19,3 +19,15 @@ If you need help with using GitHub in order to open an issue, sign up for an acc
 [MIT](LICENSE) © 2018 Justin Dorfman and Contributors.
 
 If you contribute to this repository, you are agreeing to the License terms and agreeing that an MIT license is appropriate for your contributions.
+
+
+## TODO:
+
+* Finish pages
+* Fix tickets buttons
+* Check for `FIXME` in code
+* Switch to an offcanvas mobile menu maybe
+* Make sure all pages validate
+* Maybe add Travis with html-proofer
+* Add unique and long enough page descriptions
+* Add noscript fallbacks
