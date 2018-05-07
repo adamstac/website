@@ -7,7 +7,7 @@
 
       &:hover,
       &:focus {
-        color: $green;
+        color: $white;
       }
     }
 
@@ -15,7 +15,7 @@
     &.nav-link.active,
     &.nav-link.show,
     & .show > .nav-link {
-        color: $green;
+        color: $white;
     }
   }
 

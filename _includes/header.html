@@ -52,4 +52,8 @@
 
     <header class="mast-header">
         {% include menu.html %}
+
+        {% if page.slug == 'home' %}
+            {% include home-hero.html %}
+        {% endif %}
     </header>
